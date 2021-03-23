@@ -25,3 +25,19 @@ Learning Qt Tutorial from Derek Banas
 运行结果：
 
 ![Calculator](https://gitee.com/seaworth/document/raw/markdown-picture/2020/111990129-9f857b80-8b4d-11eb-8d2b-4d9c536fc940.gif)
+
+## Charts APP
+
+绘制图表：柱形图、折线图、饼图，需要包含`charts`模块。
+
+源码：[QT TUTORIAL 3 Charts](http://www.newthinktank.com/2018/07/qt-tutorial-3/)
+
+运行结果：
+
+![](https://gitee.com/seaworth/document/raw/markdown-picture/2020/112125720-b0da9080-8bfe-11eb-80bd-f0efa921dd85.png)
+
+![](https://gitee.com/seaworth/document/raw/markdown-picture/2020/112125724-b20bbd80-8bfe-11eb-8c39-2d3ff0c81335.png)
+
+![LineCharts](https://gitee.com/seaworth/document/raw/markdown-picture/2020/LineCharts.png)
+
+![pieCharts](https://gitee.com/seaworth/document/raw/markdown-picture/2020/pieCharts.png)
