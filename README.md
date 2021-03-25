@@ -41,3 +41,14 @@ Learning Qt Tutorial from Derek Banas
 ![LineCharts](https://gitee.com/seaworth/document/raw/markdown-picture/2020/LineCharts.png)
 
 ![pieCharts](https://gitee.com/seaworth/document/raw/markdown-picture/2020/pieCharts.png)
+
+## Scribble APP
+
+源码：
+
+- [Qt Tutorial 5 : paint App](http://www.newthinktank.com/2018/07/qt-tutorial-5-paint-app/)
+- [Qt官方Scribble Example](https://doc.qt.io/qt-5/qtwidgets-widgets-scribble-example.html)
+
+运行结果：
+
+![Scribble](https://gitee.com/seaworth/document/raw/markdown-picture/2020/Scribble.png)
